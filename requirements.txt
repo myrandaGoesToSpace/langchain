@@ -1,0 +1,8 @@
+langchain==0.0.150
+chromadb==0.3.21
+hnswlib==0.7.0
+google-search-results==2.4.2
+openai==0.27.4
+unstructured==0.6.2
+deeplake==3.3.2
+pypdf==3.8.1
